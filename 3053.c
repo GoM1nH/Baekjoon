@@ -13,4 +13,4 @@ int main(void) {
 
     printf("%.6lf\n%.6lf", result1, result2);
 
-}
+} //211102 solve
